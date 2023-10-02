@@ -32,6 +32,8 @@ body {
   .signup-container input[type="cpf"],
   .signup-container input[type="password"] {
     width: 100%;
+    position: relative;
+    right: 10px;
     padding: 10px;
     margin-bottom: 15px;
     border: 1px solid #ccc;
